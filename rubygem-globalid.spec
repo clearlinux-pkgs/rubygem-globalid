@@ -4,7 +4,7 @@
 #
 Name     : rubygem-globalid
 Version  : 0.3.5
-Release  : 1
+Release  : 2
 URL      : https://rubygems.org/downloads/globalid-0.3.5.gem
 Source0  : https://rubygems.org/downloads/globalid-0.3.5.gem
 Summary  : No detailed summary available
