@@ -4,7 +4,7 @@
 #
 Name     : rubygem-globalid
 Version  : 0.3.6
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/globalid-0.3.6.gem
 Source0  : https://rubygems.org/downloads/globalid-0.3.6.gem
 Summary  : No detailed summary available
